@@ -36,5 +36,5 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            emes101/clo835-assignment2:0.2
+            emes101/clo835-assignment2:0.3
             emes101/clo835-assignment2:${{ github.sha }}
